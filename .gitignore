@@ -4,3 +4,5 @@ confusion-2014-03-02
 .pydevproject
 *.jar
 *.crc
+lsf.*
+*.log
