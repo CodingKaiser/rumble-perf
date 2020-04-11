@@ -2,7 +2,7 @@
 
 rm -f ./log-de-*.txt
 
-reps=45
+reps=5
 
 > ./log-de-p.txt
 
