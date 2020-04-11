@@ -6,3 +6,5 @@ confusion-2014-03-02
 *.crc
 lsf.*
 *.log
+output-*/
+output-*
