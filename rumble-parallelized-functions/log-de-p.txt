@@ -1,5 +1,5 @@
-[ExecTime] 8060
-[ExecTime] 8347
-[ExecTime] 8302
-[ExecTime] 8395
-[ExecTime] 8345
+[ExecTime] 9774
+[ExecTime] 10300
+[ExecTime] 10134
+[ExecTime] 10065
+[ExecTime] 10118
