@@ -2,7 +2,7 @@
 
 rm -f ./log-io-*.txt
 
-reps=3
+reps=25
 
 > ./log-io-p-1.txt
 
